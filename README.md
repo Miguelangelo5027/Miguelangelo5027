@@ -1,6 +1,6 @@
 # 💫 About Me:
-Soy un estudiante de Ingieria de software de la Institución Universitaria EAM, me encanta conocer nuevas herramientas y tecnologias para implementarlas en proyectos optimizando los tiempos de entrega y la eficiencia de estos.
-//-------------------------------------------------------------------------//
+Soy un estudiante de Ingieria de software de la Institución Universitaria EAM, me encanta conocer nuevas herramientas y tecnologias para implementarlas en proyectos optimizando los tiempos de entrega y la eficiencia de estos.<br>
+//-------------------------------------------------------------------------//<br>
 Im a student of Software Engineering at the EAM University Institude, i enjoy learning and applying new technologies and tools that helps with the optimization of delivery times and efficience on differents aplications.
 
 
