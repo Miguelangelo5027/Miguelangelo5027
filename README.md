@@ -1,5 +1,7 @@
 # 💫 About Me:
-Soy un estudiante de ingenieria de software apasionado por la implementacion de nuevas tecnologias e innovar<br>de manera constante en cuanto a efectividad de redimiento<br>Entre los lenguajes que mas comprendo son Java, no obstante me encanta conocer nuevas herramientas
+Soy un estudiante de Ingieria de software de la Institución Universitaria EAM, me encanta conocer nuevas herramientas y tecnologias para implementarlas en proyectos optimizando los tiempos de entrega y la eficiencia de estos.
+//-------------------------------------------------------------------------//
+Im a student of Software Engineering at the EAM University Institude, i enjoy learning and applying new technologies and tools that helps with the optimization of delivery times and efficience on differents aplications.
 
 
 ## 🌐 Socials:
